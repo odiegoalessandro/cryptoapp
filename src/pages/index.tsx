@@ -21,7 +21,8 @@ export default function Home({ cryptocoins }) {
     <>
       <Center>
         <Input 
-          w="20rem"
+          w="30rem"
+          size="lg"
           my="10"
           value={search}
           onChange={handleChange}

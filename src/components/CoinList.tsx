@@ -14,8 +14,7 @@ export default function CoinList({ coins }){
             <Th textAlign="center">preço atual</Th>
             <Th textAlign="center">teto nas ultimas 24h</Th>
             <Th textAlign="center">piso nas ultimas 24h</Th>
-            <Th textAlign="center">ath</Th>
-            <Th textAlign="center">atl</Th>
+            <Th textAlign="center">mudança de preço</Th>
           </Tr>
         </Thead>
         <Tbody>
